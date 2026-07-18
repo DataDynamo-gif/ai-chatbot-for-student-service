@@ -1,0 +1,82 @@
+{
+  "HPDOWK0tDansqNtDy1IZItzRJkKrMGHE": {
+    "user": {
+      "id": 1,
+      "student_id": "S101",
+      "name": "Aarav Sharma",
+      "roll_number": "CS2023001",
+      "department": "Computer Science",
+      "semester": 6,
+      "section": "A",
+      "email": "aarav.sharma@college.edu",
+      "phone": "+91-9876543210",
+      "is_admin": false
+    },
+    "created_at": 1784311315.3778524,
+    "last_active": 1784312717.8031971
+  },
+  "BC9pBaf3hLnu0NQZCZPfnnYQbKaEwFz1": {
+    "user": {
+      "id": 2,
+      "student_id": "S102",
+      "name": "Diya Patel",
+      "roll_number": "CS2023002",
+      "department": "Computer Science",
+      "semester": 6,
+      "section": "A",
+      "email": "diya.patel@college.edu",
+      "phone": "+91-9876543211",
+      "is_admin": false
+    },
+    "created_at": 1784312968.0428562,
+    "last_active": 1784313841.305112
+  },
+  "ir3XTGAIiku-O4SIOhyEKl4W8dX6fOyE": {
+    "user": {
+      "id": 2,
+      "student_id": "S102",
+      "name": "Diya Patel",
+      "roll_number": "CS2023002",
+      "department": "Computer Science",
+      "semester": 6,
+      "section": "A",
+      "email": "diya.patel@college.edu",
+      "phone": "+91-9876543211",
+      "is_admin": false
+    },
+    "created_at": 1784313904.387437,
+    "last_active": 1784315178.4699388
+  },
+  "CwOXGNKM0-dH8vO0ega1yB7iYgZEY9Et": {
+    "user": {
+      "id": 1,
+      "student_id": "S101",
+      "name": "Aarav Sharma",
+      "roll_number": "CS2023001",
+      "department": "Computer Science",
+      "semester": 6,
+      "section": "A",
+      "email": "aarav.sharma@college.edu",
+      "phone": "+91-9876543210",
+      "is_admin": false
+    },
+    "created_at": 1784314641.7803502,
+    "last_active": 1784314821.7939503
+  },
+  "lkKCz3qq64nKcX1gXi5vBpVY07x3Xnpg": {
+    "user": {
+      "id": 1,
+      "student_id": "S101",
+      "name": "Aarav Sharma",
+      "roll_number": "CS2023001",
+      "department": "Computer Science",
+      "semester": 6,
+      "section": "A",
+      "email": "aarav.sharma@college.edu",
+      "phone": "+91-9876543210",
+      "is_admin": false
+    },
+    "created_at": 1784315345.3582132,
+    "last_active": 1784315345.3582132
+  }
+}
